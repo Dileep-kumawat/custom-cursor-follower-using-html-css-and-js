@@ -19,7 +19,7 @@ The cursor smoothly follows the mouse pointer and expands when hovering over the
 
 ## 🌐 Live Demo
 
-🔗 **Live Link:** []()
+🔗 **Live Link:** [https://dileep-kumawat.github.io/custom-cursor-follower-using-html-css-and-js/](https://dileep-kumawat.github.io/custom-cursor-follower-using-html-css-and-js/)
 
 ---
 
